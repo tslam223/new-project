@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+}
+h6{
+    color: white;
+    border: 1px solid red ;
+}
+button{
+    margin: 50px;
+    padding: 40px;
+}
+h2{
+    padding: 50px 40px 30px;
+}
